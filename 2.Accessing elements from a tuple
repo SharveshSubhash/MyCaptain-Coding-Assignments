@@ -1,0 +1,7 @@
+tup=('shivam','arora','shukla',123,456)
+L2=[]
+for i in range(5):
+    print(tup[i])
+    L2.append(tup[i])
+
+print(str(tuple(L2))    
