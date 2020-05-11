@@ -1,4 +1,0 @@
-dic={'shivam':89879,'aravind':786868,'hgjjgj':998,'hhhhh':876876,'uuuu':8098}
-del dic['aravind']
-dic.pop('uuuu')
-print(str(dic))
